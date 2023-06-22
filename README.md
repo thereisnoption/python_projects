@@ -1,4 +1,4 @@
-# python_work
+# python_projects
 My repository for saving my Python projects.
 
 So currently I'm still learning about programming, especially for data science and data analyst.
